@@ -12,4 +12,4 @@ Problem-Solving: Identifying potential issues early on, robots in industrial set
 Interaction: By predicting needs, robots can better assist and collaborate with humans.
 Healthcare: Robots help in healthcare by estimating patient trajectories, aiding in diagnosis and treatment.
 Security: Predicting risks, security robots can alert and act preemptively to ensure safety.
-![image](https://github.com/qaillc/GlobalInsightClaude3Hackathon/assets/151853205/53068353-d1cb-457a-88d5-cdfb973e7b5b)
+
