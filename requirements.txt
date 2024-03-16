@@ -1,0 +1,6 @@
+streamlit
+anthropic
+requests
+python-dotenv  # If you're using dotenv for environment variables
+Pillow
+
